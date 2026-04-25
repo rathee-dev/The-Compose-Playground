@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task Manager UI</string>
+    <string name="heading_compose">All tasks completed</string>
+    <string name="sub_heading_compose">Nice work!</string>
+</resources>
