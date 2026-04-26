@@ -57,7 +57,7 @@ fun ProfileCardApp(modifier: Modifier = Modifier) {
     Column(
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally,
-        modifier = modifier
+        modifier = Modifier
             .fillMaxSize()
             .background(colorResource(R.color.ic_background_color))
     ) {
