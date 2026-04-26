@@ -25,7 +25,8 @@ A foundational project focusing on content hierarchy and text styling.
 - **Key Concepts:** `Column` layout, `Image` scaling, `TextAlign.Justify`.
 - **Technical Detail:** Implements a vertical stack using `Column` to seamlessly blend a hero image with a title and multi-paragraph text. It uses `stringResource` for localization and `painterResource` for efficient asset loading.
 - **Visuals:**
-  ![Compose Article](./media/ComposeArticle_screenshot.png)
+  <br/>
+  <img src="./media/ComposeArticle_screenshot.png" width="280" alt="Compose Article" />
 
 ---
 
@@ -34,7 +35,8 @@ An exploration of screen segmentation and weight-based layouts.
 - **Key Concepts:** `Modifier.weight()`, `Row` and `Column` nesting, Background color management.
 - **Technical Detail:** This project demonstrates how to divide the viewport into equal sections using the `weight` modifier. Each quadrant is a reusable composable that encapsulates its own styling and alignment logic.
 - **Visuals:**
-  ![Compose Quadrant](./media/ComposeQuadrant_screenshot.png)
+  <br/>
+  <img src="./media/ComposeQuadrant_screenshot.png" width="280" alt="Compose Quadrant" />
 
 ---
 
@@ -43,7 +45,8 @@ A creative take on layering and visual aesthetics.
 - **Key Concepts:** `Box` layout (Z-axis stacking), `ContentScale.Crop`, Alpha transparency.
 - **Technical Detail:** Utilizes the `Box` composable to layer text over a full-screen background image. It showcases how to use `ContentScale` to maintain aspect ratios and `alpha` modifiers to ensure text readability against busy backgrounds.
 - **Visuals:**
-  ![Happy Birthday](./media/HappyBirthdayCard_screenshot.png.png)
+  <br/>
+  <img src="./media/HappyBirthdayCard_screenshot.png.png" width="280" alt="Happy Birthday" />
 
 ---
 
@@ -52,7 +55,8 @@ A professional UI component showcasing contact information and branding.
 - **Key Concepts:** Material Icons, `Surface` containers, `Arrangement.Center`.
 - **Technical Detail:** Features a sophisticated layout with a top branding section and a bottom contact list. It makes extensive use of `Vector Graphics (ImageVector)` and custom `Row` components to create a clean, modern digital business card.
 - **Visuals:**
-  ![Profile Card](./media/ProfileCard_screenshot.png)
+  <br/>
+  <img src="./media/ProfileCard_screenshot.png" width="280" alt="Profile Card" />
 
 ---
 
@@ -61,7 +65,8 @@ A minimal and feedback-oriented user interface.
 - **Key Concepts:** `Arrangement.Center`, `FontWeight.Bold`, Material3 `Surface`.
 - **Technical Detail:** Focuses on perfect centering of elements using `verticalArrangement` and `horizontalAlignment`. It demonstrates the use of typography weights to create visual hierarchy in simple informative screens.
 - **Visuals:**
-  ![Task Manager](./media/TaskManagerUI_screenshot.png)
+  <br/>
+  <img src="./media/TaskManagerUI_screenshot.png" width="280" alt="Task Manager" />
 
 ---
 
